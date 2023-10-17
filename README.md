@@ -84,3 +84,33 @@ Pelaksanaan proyek adalah tahap ketiga dalam manajemen proyek. Pada tahap ini, r
 
 Tahap pelaksanaan adalah tahap di mana rencana diubah menjadi tindakan nyata. Kunci kesuksesan dalam tahap ini adalah manajemen yang efisien, pemantauan yang cermat, dan komunikasi yang baik.
 
+-- Control The Execution
+
+1. **Communication (Komunikasi):** Komunikasi yang efektif sangat penting dalam pengendalian pelaksanaan proyek. Tim proyek harus mampu berkomunikasi secara terbuka, jelas, dan efisien. Ini mencakup komunikasi antaranggota tim, dengan pemangku kepentingan, dan pelaporan kemajuan proyek. Komunikasi yang buruk dapat menyebabkan kebingungan, konflik, dan masalah dalam pelaksanaan proyek.
+
+2. **Integration (Integrasi):** Integrasi adalah tentang mengelola semua komponen proyek agar berjalan sebagai satu kesatuan yang terkoordinasi. Ini mencakup pengelolaan sumber daya, aktivitas, dan tugas agar sesuai dengan rencana proyek secara keseluruhan. Integrasi memastikan bahwa semua bagian proyek saling terhubung dan berkontribusi pada pencapaian tujuan akhir.
+
+3. **Collaboration (Kolaborasi):** Kolaborasi merujuk pada kerja sama yang erat antara anggota tim proyek. Ini melibatkan berbagi pengetahuan, keterampilan, dan pengalaman untuk mencapai tujuan bersama. Kolaborasi yang baik dapat meningkatkan produktivitas dan kualitas hasil proyek.
+
+4. **Empathy (Empati):** Empati adalah kemampuan untuk memahami dan merasakan perasaan dan pandangan orang lain. Ini sangat penting dalam tim proyek, karena dapat membantu dalam mengatasi konflik, meningkatkan komunikasi, dan membangun hubungan kerja yang baik. Memiliki empati berarti memahami perspektif dan kebutuhan rekan tim dan pemangku kepentingan.
+
+5. **Offering Help (Menawarkan Bantuan):** Menawarkan bantuan dan dukungan kepada rekan tim adalah tindakan yang mendukung kolaborasi dan pemecahan masalah. Ini mencerminkan sikap yang proaktif dan antusias untuk membantu rekan tim yang mungkin menghadapi kendala atau kesulitan. Menawarkan bantuan juga dapat menciptakan lingkungan kerja yang positif.
+
+Dalam pengendalian pelaksanaan proyek, elemen-elemen ini membantu memastikan bahwa tim proyek bekerja secara efisien, berkolaborasi dengan baik, dan mengatasi hambatan yang mungkin muncul. Mereka berkontribusi pada pengelolaan sumber daya, pemecahan masalah, dan pencapaian tujuan proyek dengan cara yang lebih baik dan lebih efektif.
+
+### ! Jangan Over Comunication
+Overcommunication (komunikasi berlebihan) dapat memiliki beberapa dampak negatif dalam konteks manajemen proyek. Berikut beberapa alasan mengapa Anda harus menghindari overcommunication:
+
+1. **Waktu yang Tidak Efisien:** Terlalu banyak komunikasi, terutama jika tidak relevan, dapat menghabiskan banyak waktu anggota tim dan mengurangi produktivitas. Anggota tim mungkin harus menghadiri pertemuan yang tidak perlu atau membaca email yang tidak relevan.
+
+2. **Kebingungan:** Terlalu banyak informasi yang disampaikan kepada anggota tim dalam waktu singkat dapat menyebabkan kebingungan. Mereka mungkin kesulitan memilah informasi yang penting dan yang tidak penting, sehingga membingungkan tujuan proyek.
+
+3. **Ketidakjelasan Prioritas:** Terlalu banyak informasi yang dikomunikasikan dapat mengaburkan prioritas proyek. Anggota tim mungkin tidak tahu mana yang harus dikerjakan terlebih dahulu karena terlalu banyak informasi yang datang secara bersamaan.
+
+4. **Pengalihan Fokus:** Overcommunication dapat mengganggu konsentrasi anggota tim dan mengalihkan fokus mereka dari tugas utama proyek. Ini dapat menyebabkan penurunan produktivitas.
+
+5. **Penumpukan Pesan:** Jika terlalu banyak pesan atau komunikasi yang ditumpahkan kepada anggota tim, pesan yang sebenarnya penting dapat tenggelam di antara pesan-pesan lainnya.
+
+6. **Kelelahan Tim:** Anggota tim yang terus-menerus menerima banyak komunikasi mungkin merasa kelelahan dan lelah, yang dapat memengaruhi kesejahteraan mereka.
+
+Sebaliknya, komunikasi yang efektif adalah tentang menyampaikan informasi yang relevan, penting, dan sesuai dengan kebutuhan tim dan proyek. Ini memungkinkan anggota tim untuk bekerja lebih efisien dan berfokus pada tugas utama proyek. Manajer proyek harus memastikan bahwa komunikasi proyek terarah dan sesuai dengan kebutuhan, bukan terlalu berlebihan.
