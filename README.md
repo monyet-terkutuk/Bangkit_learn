@@ -1,4 +1,4 @@
-# Bangkit_Learn
+![image](https://github.com/undeath-cyber/Bangkit_learn/assets/60677957/be861157-a704-44eb-a18c-6e990589dd47)# Bangkit_Learn
 
 ### ILT - SS - 05 - AI Project Management
 ## Project Management Triangle
@@ -148,3 +148,18 @@ Sebaliknya, komunikasi yang efektif adalah tentang menyampaikan informasi yang r
 15. **Pembubaran Proyek:** Setelah semua langkah penutupan selesai, proyek dianggap selesai dan dapat dibubarkan secara resmi.
 
 Langkah-langkah penutupan proyek ini penting untuk memastikan bahwa semua aspek proyek telah diselesaikan dengan baik dan proyek diakhiri secara profesional.
+
+## 5 Aspects to Consider in Project Management 
+Dalam manajemen proyek, ada lima aspek penting yang perlu dipertimbangkan:
+
+1. **Scope (Lingkup):** Menentukan apa yang termasuk dalam proyek dan apa yang tidak. Memahami lingkup proyek membantu dalam menetapkan tujuan proyek dan menghindari scope creep (peningkatan lingkup yang tidak terkendali).
+
+2. **Time (Waktu):** Menentukan jadwal proyek, termasuk waktu mulai dan selesai, serta waktu yang diperlukan untuk setiap tugas atau milestone. Mengelola waktu dengan baik penting untuk memastikan proyek selesai tepat waktu.
+
+3. **Cost (Biaya):** Menentukan anggaran proyek dan mengelola sumber daya finansial dengan cermat. Ini mencakup pengawasan biaya, menghindari pengeluaran yang tidak perlu, dan memastikan proyek tetap dalam anggaran.
+
+4. **Quality (Kualitas):** Memastikan bahwa hasil proyek memenuhi standar kualitas yang ditetapkan. Ini melibatkan pengendalian mutu, pengujian, dan verifikasi bahwa deliverables (hasil proyek) memenuhi ekspektasi.
+
+5. **Risk (Risiko):** Mengidentifikasi, mengevaluasi, dan mengelola risiko yang mungkin timbul selama proyek. Perencanaan risiko dan tindakan mitigasi adalah bagian penting dari manajemen proyek.
+
+Memahami dan mengelola kelima aspek ini dengan baik akan membantu memastikan kesuksesan proyek dan mencapai tujuan yang telah ditetapkan.
