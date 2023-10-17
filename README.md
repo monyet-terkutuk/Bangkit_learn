@@ -17,7 +17,7 @@
 
 5. **Penutupan Proyek (Project Closure):** Setelah proyek selesai, langkah terakhir adalah menutup proyek. Ini termasuk menyelesaikan semua dokumen, mengevaluasi hasil proyek, menyampaikan hasil kepada pemangku kepentingan, dan menutup semua akun dan kontrak yang terkait dengan proyek.
 
-### - 1. Why project initiation is essensial
+### 1. Why project initiation is essensial
 Tahap inisiasi proyek adalah langkah awal yang sangat penting dalam mengatur proyek. Tahap ini melibatkan pemahaman yang jelas tentang mengapa proyek tersebut diperlukan, apa yang ingin dicapai, dan siapa yang terlibat. Inisiasi proyek membantu dalam:
 
 1. **Pemahaman yang Jelas:** Ini membantu semua pihak terlibat untuk memahami dengan jelas mengapa proyek itu perlu. Ini mencakup mendefinisikan tujuan proyek dan hasil yang diharapkan, sehingga semua orang memiliki pemahaman yang sama.
