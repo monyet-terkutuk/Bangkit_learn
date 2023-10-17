@@ -1,5 +1,4 @@
-![image](https://github.com/undeath-cyber/Bangkit_learn/assets/60677957/be861157-a704-44eb-a18c-6e990589dd47)# Bangkit_Learn
-![image](https://github.com/undeath-cyber/Bangkit_learn/assets/60677957/ac8384a1-f4ce-4562-a2fa-010f988a9bbb)
+# Bangkit_Learn
 
 
 ### ILT - SS - 05 - AI Project Management
