@@ -59,3 +59,28 @@ Perencanaan proyek adalah langkah selanjutnya setelah tahap inisiasi dan sangat 
 
 10. **Pengukuran Keberhasilan:** Rencana proyek memberikan dasar untuk mengukur keberhasilan proyek. Ini memungkinkan untuk menilai apakah proyek mencapai tujuannya sesuai dengan yang direncanakan.
 
+### 3. Project Execution
+Pelaksanaan proyek adalah tahap ketiga dalam manajemen proyek. Pada tahap ini, rencana yang telah dibuat dalam tahap perencanaan dijalankan. Inilah inti dari pelaksanaan proyek:
+
+1. **Implementasi Rencana:** Proyek dieksekusi sesuai dengan rencana yang telah disusun. Ini mencakup pelaksanaan tugas, aktivitas, dan tindakan yang diperlukan untuk mencapai tujuan proyek.
+
+2. **Manajemen Sumber Daya:** Manajemen sumber daya manusia, peralatan, dan bahan berperan penting dalam tahap ini. Tim proyek harus bekerja sama untuk melaksanakan tugas sesuai dengan jadwal.
+
+3. **Pemantauan Kemajuan:** Manajer proyek bertanggung jawab untuk memantau kemajuan proyek secara teratur. Hal ini memungkinkan mereka untuk menilai apakah proyek berjalan sesuai dengan rencana dan jadwal, serta untuk mengidentifikasi masalah atau hambatan yang mungkin muncul.
+
+4. **Kontrol Perubahan:** Meskipun perubahan dalam proyek adalah hal yang umum terjadi, perubahan harus dikelola dengan hati-hati. Keputusan perubahan harus dievaluasi, diotorisasi, dan diintegrasikan ke dalam rencana proyek jika perlu.
+
+5. **Manajemen Risiko:** Risiko yang diidentifikasi selama perencanaan proyek harus terus dimonitor selama pelaksanaan. Tindakan pencegahan atau mitigasi harus diambil jika risiko terjadi.
+
+6. **Pengendalian Kualitas:** Kontrol kualitas berperan penting dalam memastikan bahwa produk atau layanan yang dihasilkan selama proyek memenuhi standar kualitas yang telah ditetapkan.
+
+7. **Komunikasi Tim dan Pemangku Kepentingan:** Komunikasi yang efektif antara anggota tim proyek dan pemangku kepentingan eksternal adalah kunci kesuksesan pelaksanaan proyek.
+
+8. **Pemantauan Anggaran:** Keuangan proyek harus dipantau dengan cermat untuk memastikan bahwa proyek tidak melampaui anggaran yang telah ditetapkan.
+
+9. **Pengukuran Kinerja:** Kinerja proyek harus diukur secara berkala terhadap tujuan dan kriteria keberhasilan yang telah ditetapkan dalam rencana proyek.
+
+10. **Pelaporan Kemajuan:** Laporan berkala kepada pemangku kepentingan tentang kemajuan proyek, masalah yang dihadapi, dan tindakan yang telah diambil adalah bagian penting dari pelaksanaan proyek.
+
+Tahap pelaksanaan adalah tahap di mana rencana diubah menjadi tindakan nyata. Kunci kesuksesan dalam tahap ini adalah manajemen yang efisien, pemantauan yang cermat, dan komunikasi yang baik.
+
