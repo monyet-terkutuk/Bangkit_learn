@@ -1,6 +1,6 @@
 # Bangkit_learn
 
-### ILT - SS - 05
+### ILT - SS - 05 - AI Project Management
 ## Project Management Triangle
 - Time
 - Budget
