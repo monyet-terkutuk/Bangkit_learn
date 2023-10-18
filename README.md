@@ -164,3 +164,8 @@ Dalam manajemen proyek, ada lima aspek penting yang perlu dipertimbangkan:
 5. **Risk (Risiko):** Mengidentifikasi, mengevaluasi, dan mengelola risiko yang mungkin timbul selama proyek. Perencanaan risiko dan tindakan mitigasi adalah bagian penting dari manajemen proyek.
 
 Memahami dan mengelola kelima aspek ini dengan baik akan membantu memastikan kesuksesan proyek dan mencapai tujuan yang telah ditetapkan.
+
+
+# GCSB - 02 Prepairing for Your Associate Cloud Engineer Journey
+### Study Case : Cymbal Superstore
+Projek Ecommerce Cymbal Superstore memerlukan akses ke GKE (Google Kubernetes Engine) dan Cloud SQL untuk backend database "kita harus mengaktifkan api untuk layanan - layanan ini"
