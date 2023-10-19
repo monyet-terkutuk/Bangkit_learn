@@ -168,4 +168,23 @@ Memahami dan mengelola kelima aspek ini dengan baik akan membantu memastikan kes
 
 # GCSB - 02 Prepairing for Your Associate Cloud Engineer Journey
 ### Study Case : Cymbal Superstore
-Projek Ecommerce Cymbal Superstore memerlukan akses ke GKE (Google Kubernetes Engine) dan Cloud SQL untuk backend database "kita harus mengaktifkan api untuk layanan - layanan ini"
+Projek Ecommerce Cymbal Superstore memerlukan akses ke GKE (Google Kubernetes Engine) dan Cld SQL untuk backend database "kita harus mengaktifkan api untuk layanan - layanan ini"
+
+
+# VPC and Instance
+Instance tidak bisa berjalan/dibuat jika vpc network tidak ada/tidak dibuat/dihapus
+
+## Penyimpanan dalam google cloud
+Dalam konsep penyimpanan ada yg di sebut,
+- Object Storage
+- File Storage
+- Block Storage
+
+### Cloud Storage - Object Storage
+Penyimpanan yang memungkinkan kita menyimpan data dan mengambilnya sesering yg di perlukan, data yang bisa di simpan antara lain gambar, video, audio, dan file
+Beberapa contoh penggunakan cloud storage,
+- Menyajikan "konten" situs web
+- Menyimpan data untuk pengarsipan dan pemulihan bencana
+- dan Mendistribusikan object data berukuran besar ke penggunak akhir melalui Direct Download
+
+Penggunaan utama Cloude Storage adalah untuk *Binary large-object(BLOB) Storage* file storage di simpan ke dalam bucket (dalam gcp), bucket memerlukan nama unik secara global dan lokasi geografis tertentu sebagai media penyimpanannya
