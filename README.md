@@ -188,3 +188,9 @@ Beberapa contoh penggunakan cloud storage,
 - dan Mendistribusikan object data berukuran besar ke penggunak akhir melalui Direct Download
 
 Penggunaan utama Cloude Storage adalah untuk *Binary large-object(BLOB) Storage* file storage di simpan ke dalam bucket (dalam gcp), bucket memerlukan nama unik secara global dan lokasi geografis tertentu sebagai media penyimpanannya
+
+Ada Empat kelas penyimpanan utama pada Cloud Storage yaitu,
+- Hot Storage - Ini bagus untuk data yang disimpan dalam jangka waktu singkat.
+- Nearline Storage - Bagus untuk data yang  jarang di akses, seperti membaca atau mengubah data rata rata sebulan sekali atau kurang. (cadangan data, kontent mulmed jangka panjang, arsip data)
+- Coldline Storage - Adalah penyimpanan murah untuk data jangka panjang yg jarang di gunakan dalam waktu 90 hari sekali.
+- Archive Storage - Penyimpanan paling murah, biasanya di gunakan untuk arsip, cadangan data,, dan pemulihan bencanan.
