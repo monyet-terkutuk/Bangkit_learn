@@ -194,3 +194,9 @@ Ada Empat kelas penyimpanan utama pada Cloud Storage yaitu,
 - Nearline Storage - Bagus untuk data yang  jarang di akses, seperti membaca atau mengubah data rata rata sebulan sekali atau kurang. (cadangan data, kontent mulmed jangka panjang, arsip data)
 - Coldline Storage - Adalah penyimpanan murah untuk data jangka panjang yg jarang di gunakan dalam waktu 90 hari sekali.
 - Archive Storage - Penyimpanan paling murah, biasanya di gunakan untuk arsip, cadangan data,, dan pemulihan bencanan.
+
+
+## Refernsi Link
+
+### Terraform 
+- https://github.com/terraform-google-modules/terraform-example-foundation
