@@ -203,3 +203,6 @@ Ada Empat kelas penyimpanan utama pada Cloud Storage yaitu,
 
 ### Terraform 
 - https://github.com/terraform-google-modules/terraform-example-foundation
+
+### Contoh Demo ILT
+- https://github.com/dicodingacademy/ilt-cloud-2-bangkit-demo/tree/project-solution
