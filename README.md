@@ -214,7 +214,7 @@ Ada Empat kelas penyimpanan utama pada Cloud Storage yaitu,
 gcloud compute networks create vpc-demo --subnet-mode custom
 ```
   
-Buat subnet di vpc network
+Buat subnet di vpc network dengan region us-west1
 
 ```bash
 gcloud compute networks subnets create vpc-demo-subnet1 \
