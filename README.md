@@ -209,8 +209,14 @@ Ada Empat kelas penyimpanan utama pada Cloud Storage yaitu,
 
 # Contoh perintah perintah di cloud shell
 ### Membuat VPC Network
-- gcloud compute networks create vpc-demo --subnet-mode custom
+
+```bash
+gcloud compute networks create vpc-demo --subnet-mode custom
+```
   
 Buat subnet di vpc network
-- gcloud compute networks subnets create vpc-demo-subnet1 \
+
+```bash
+gcloud compute networks subnets create vpc-demo-subnet1 \
 --network vpc-demo --range 10.1.1.0/24 --region "us-west1"
+```
