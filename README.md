@@ -271,3 +271,29 @@ perintah ini untuk mengaplikasikan intruksi intruksi yg telah kita buat pada fil
 terraform destroy
 ```
 perintah ini menghancurkan/membatalkan semua konfigurasi/arsitekture cloud yg telah kita buat dengan file .tf, ketik "yes" untuk mengkonfirmasi perintah ini.
+
+### Sebagai Informasi Tambahan
+beberapa service di gcp ada yg tidak bisa di terapkan jiga service sedang menyala/digunakan jadi kita harus menambahkan konfigurasi "allow_stopping_for_update = true", agar sistem dimatikan sementara untuk update sebuah perubahan yang anda buat.
+berikut contoh file yg telah ditambahkan script tersebut :
+
+```terraform
+resource "google_compute_instance" "terraform" {
+  name         = "terraform"
+  machine_type = "e2-medium"
+
+  tags         = ["web", "dev"]
+
+  boot_disk {
+    initialize_params {
+      image = "debian-cloud/debian-11"
+    }
+  }
+
+  network_interface {
+    network = "default"
+    access_config {
+    }
+  }
+  allow_stopping_for_update = true
+}
+```
