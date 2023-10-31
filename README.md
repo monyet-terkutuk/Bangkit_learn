@@ -256,13 +256,18 @@ resource "google_compute_instance" "terraform" {
 ```bash
 terraform init
 ```
-perintah tersebut mungkin sama seperti git ini, yaitu untuk menginitialisasi file terraform
+perintah tersebut mungkin sama seperti git ini, yaitu untuk menginitialisasi file terraform.
 
 ```bash
 terraform plan
 ```
-perintah ini sama seperti git commit, ini mungkin menyimpan perubahan yg telah terjadi di file kita
+perintah ini sama seperti git commit, ini mungkin menyimpan perubahan yg telah terjadi di file kita.
 ```bash
 terraform apply
 ```
-perintah ini untuk mengaplikasikan intruksi intruksi yg telah kita buat pada file .tf ke cloud computing kita dan nanti akan ada pertanyaan untuk konfirmasi jika ingin melanjutkan ketik "yes"
+perintah ini untuk mengaplikasikan intruksi intruksi yg telah kita buat pada file .tf ke cloud computing kita dan nanti akan ada pertanyaan untuk konfirmasi jika ingin melanjutkan ketik "yes".
+
+```bash
+terraform destroy
+```
+perintah ini menghancurkan/membatalkan semua konfigurasi/arsitekture cloud yg telah kita buat dengan file .tf, ketik "yes" untuk mengkonfirmasi perintah ini.
