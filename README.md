@@ -245,10 +245,24 @@ resource "google_compute_instance" "terraform" {
       image = "debian-cloud/debian-11"
     }
   }
-network_interface {
+  network_interface {
     network = "default"
     access_config {
     }
 }
 }
 ```
+### beberapa perintah di Terraform
+```bash
+terraform init
+```
+perintah tersebut mungkin sama seperti git ini, yaitu untuk menginitialisasi file terraform
+
+```bash
+terraform plan
+```
+perintah ini sama seperti git commit, ini mungkin menyimpan perubahan yg telah terjadi di file kita
+```bash
+terraform apply
+```
+perintah ini untuk mengaplikasikan intruksi intruksi yg telah kita buat pada file .tf ke cloud computing kita dan nanti akan ada pertanyaan untuk konfirmasi jika ingin melanjutkan ketik "yes"
