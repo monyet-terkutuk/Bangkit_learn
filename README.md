@@ -220,3 +220,35 @@ Buat subnet di vpc network dengan region us-west1
 gcloud compute networks subnets create vpc-demo-subnet1 \
 --network vpc-demo --range 10.1.1.0/24 --region "us-west1"
 ```
+# Contoh kode teraform untuk membuat instance
+```terraform
+terraform {
+  required_providers {
+    google = {
+      source = "hashicorp/google"
+    }
+  }
+}
+
+provider "google" {
+
+  project = "qwiklabs-gcp-03-5ddc07491bac"
+  region  = "us-central1"
+  zone    = "us-central1-f"
+}
+
+resource "google_compute_instance" "terraform" {
+  name         = "terraform"
+  machine_type = "e2-micro"
+  boot_disk {
+    initialize_params {
+      image = "debian-cloud/debian-11"
+    }
+  }
+network_interface {
+    network = "default"
+    access_config {
+    }
+}
+}
+```
