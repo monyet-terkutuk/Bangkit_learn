@@ -274,7 +274,9 @@ perintah ini menghancurkan/membatalkan semua konfigurasi/arsitekture cloud yg te
 
 ### Sebagai Informasi Tambahan
 beberapa service di gcp ada yg tidak bisa di terapkan jiga service sedang menyala/digunakan jadi kita harus menambahkan konfigurasi "allow_stopping_for_update = true", agar sistem dimatikan sementara untuk update sebuah perubahan yang anda buat.
-berikut contoh file yg telah ditambahkan script tersebut :
+
+
+Berikut contoh file yg telah ditambahkan script tersebut :
 
 ```terraform
 resource "google_compute_instance" "terraform" {
